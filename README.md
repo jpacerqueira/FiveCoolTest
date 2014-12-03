@@ -6,7 +6,6 @@ Technical Assignment
 > Akka, Scala, Play!
 
 
-
 The objective is to build a fault tolerant system for a simple application that saves data in a key/value data store that doesn't have transaction management.
 
 The application receives JSON data from a RESTful Web service. The application saves the data with the date of creation and increment two types of counters. Two others web services will expose the insight data.
